@@ -22,7 +22,9 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-(Screenshot Frontend Mentor Recipie Page.png)
+![Alt text](Screenshot Frontend Mentor Recipe Page.png)
+![Screenshot Frontend Mentor Recipie Page](https://github.com/andikeme/Frontend-Mentor-Recipie-Page/assets/68439552/3cf6b431-05ca-4805-a8ac-b6965d99df4b)
+
 
 
 
@@ -41,7 +43,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Use this section to recap some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your knowledge.
 
 To see how you can add code snippets, see below:
 
@@ -72,12 +74,12 @@ li::marker{
 
 ### Continued development
 
-I have figured out that i new to learn how to work with vh & vw and not just pixels and percentages. i would also love to develop myself in making html work responsive with less code. 
+I have figured out that I need to learn how to work with vh & vw and not just pixels and percentages. I would also love to develop myself in making HTML work responsive with less code. 
 
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/howto/howto_css_bullet_color.asp) -  This website has helped my at ti es when i am stuck and need help figuring out problems.
+- [Example resource 1](https://www.w3schools.com/howto/howto_css_bullet_color.asp) -  This website has helped me at times when I am stuck and need help figuring out problems.
 
 ## Author
 - Frontend Mentor - [@andikeme](https://www.frontendmentor.io/profile/andikeme)
@@ -85,4 +87,4 @@ I have figured out that i new to learn how to work with vh & vw and not just pix
 
 ## Acknowledgments
 
-I would like to thank my friend Zulaihat Salihu who helped me with the task of adding media Querry to my css code to make it responsive to different screen sizes.
+I would like to thank my friend Zulaihat Salihu who helped me with the task of adding media Querry to my CSS code to make it responsive to different screen sizes.
